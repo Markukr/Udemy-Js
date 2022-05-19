@@ -29,7 +29,7 @@ const obje = { a: 1, b: 2 };
 
 //
 const answers = [];
-sd
+
 answers[0] = prompt('Яке у вас імя?', '');
 answers[1] = prompt('Яке у вас прізвище?', '');
 answers[2] = prompt('Скільки вам років?', '');
