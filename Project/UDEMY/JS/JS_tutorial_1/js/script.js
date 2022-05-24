@@ -56,8 +56,9 @@ console.log(isChecked || isClose); // || то або то. хочаби щось
 let increment = 10,
    decrement = 10;
 
-// ++increment;
-// --decrement;
+// ++increment; збільшує на 1
+// --decrement; зменшує на 1 
 
 console.log(increment++);
 console.log(--decrement);
+
